@@ -63,7 +63,7 @@ class Child1 extends Component {
     .attr('y', 15)
     .attr('fill', 'black')
     .text('Total Bill vs Tips')
-    .attr('font-size', 22)
+    .attr('font-size', 19)
     .attr('text-anchor', 'middle')
     .attr('font-family', 'Times New Roman')
     .attr('font-weight','bold')
